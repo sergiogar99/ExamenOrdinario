@@ -1,0 +1,13 @@
+.All{
+
+    display: flex;
+    justify-content : space-between;
+    flex-wrap:wrap;
+}
+
+.Style{
+
+    display: flex;
+    justify-content : space-between;
+    width: 100%;
+}
